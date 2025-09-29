@@ -65,10 +65,10 @@ Add a blog or portfolio projects section.
 
 Palak Pant – Creative Director & Project Handler
 
-📧 Email: pallak2088@gmail.com
+📧 Email: pantpalak20@gmail.com
 
-🔗 GitHub: your-username
+🔗 GitHub: https://github.com/palakkkk29
 
-🔗 LinkedIn: your-linkedin
+🔗 LinkedIn: linkedin.com/in/palak-pant-b897422a0
 
 ⚡ "Where creativity meets innovation."
